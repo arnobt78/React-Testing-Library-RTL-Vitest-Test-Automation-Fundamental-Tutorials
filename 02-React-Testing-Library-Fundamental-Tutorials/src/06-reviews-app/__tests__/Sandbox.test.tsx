@@ -1,7 +1,7 @@
 // Sandbox.test.tsx - Tests for the 06-reviews-app Sandbox component
 import { render, screen } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
-import Sandbox from "../Sandbox";
+import Sandbox from "../Sandbox.tsx";
 import { getFormElements } from "./Form.test.tsx";
 
 // Group of tests for the Reviews App Sandbox component

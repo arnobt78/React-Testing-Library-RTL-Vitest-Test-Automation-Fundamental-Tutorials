@@ -4,7 +4,7 @@ import App from "./App.tsx";
 import "./index.css";
 
 if (import.meta.env.DEV) {
-  const { worker } = await import("./mocks/browser");
+  const { worker } = await import("./mocks/browser.ts");
   await worker.start();
 }
 
