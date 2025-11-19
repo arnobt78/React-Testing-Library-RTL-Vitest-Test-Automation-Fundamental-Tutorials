@@ -1,4 +1,4 @@
-# React Testing Library with Vitest - Complete Learning Path
+# React Testing Library with Vitest - Complete Learning Path (RTL + Vitest + API Mocking + GraphQL + Apollo Client + MSW + TDD + Focus Flow Fundamentals & Testing Tutorials)
 
 A comprehensive collection of progressive React Testing Library tutorials designed to take you from beginner to advanced. This repository contains five complete projects that build upon each other, teaching you everything from basic setup to advanced testing patterns including GraphQL API mocking and complex integration testing.
 
